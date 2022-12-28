@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 1;
+    background-color: azure;
+}
+
+.titulo{
+    text-align: center;
+}
+
+
+.galeria{
+    
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.image-galeria{
+    width: 300px;
+}
+.image-galeria:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}

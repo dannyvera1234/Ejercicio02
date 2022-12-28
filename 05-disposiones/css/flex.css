@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+    background-color: yellow;
+    height: 300px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.contenido-1{
+    background-color: wheat;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.contenido-2{
+    background-color: wheat;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.contenido-3{
+    background-color: wheat;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
